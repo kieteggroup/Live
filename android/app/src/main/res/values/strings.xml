@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Live</string>
+        <string name="fps_30">fps: 30</string>
 </resources>

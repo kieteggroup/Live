@@ -4,3 +4,6 @@ extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autoli
 rootProject.name = 'Live'
 include ':app'
 includeBuild('../node_modules/@react-native/gradle-plugin')
+include ':hapiAVRender'
+include ':lib_pixelFree_uikit'
+include ':sdk-aar'

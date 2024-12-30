@@ -15,6 +15,13 @@
 		7699B88040F8A987B510C191 /* libPods-Live-LiveTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Live-LiveTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		97540D325B821975EB2A4607 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		8AE3C0BE103D4F17BFA1384D /* baixiaomao.bundle in Resources */ = {isa = PBXBuildFile; fileRef = AC02FE4B35DA4C3EA6076DB5 /* baixiaomao.bundle */; };
+		EACAA3BCAFB34AC79A3EED2D /* candy.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C8DA75E06A754719B7850649 /* candy.bundle */; };
+		3F042EC4BB514DFAB028232D /* flowers.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 295497507FFF448AA772CC90 /* flowers.bundle */; };
+		3BC5B793D53449E99FA0094B /* maorong.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 0338C7CE6CCA41D6A1E542A0 /* maorong.bundle */; };
+		CD072595074447189D084114 /* pixelfreeAuth.lic in Resources */ = {isa = PBXBuildFile; fileRef = EDF1C71E83EF437CB21C516A /* pixelfreeAuth.lic */; };
+		96BECC68BF3A459893C43DAF /* xiantiaoxiongmao.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E59146F01DAC4FF2B3FEC8D6 /* xiantiaoxiongmao.bundle */; };
+		0D0DD2F12C6941D8B09A78EB /* xiongerduo.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C4916CCAA4E543A88DE41B1B /* xiongerduo.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +53,13 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Live/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Live-LiveTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Live-LiveTests.release.xcconfig"; path = "Target Support Files/Pods-Live-LiveTests/Pods-Live-LiveTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		AC02FE4B35DA4C3EA6076DB5 /* baixiaomao.bundle */ = {isa = PBXFileReference; name = "baixiaomao.bundle"; path = "../assets/baixiaomao.bundle"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.plug-in; explicitFileType = undefined; includeInIndex = 0; };
+		C8DA75E06A754719B7850649 /* candy.bundle */ = {isa = PBXFileReference; name = "candy.bundle"; path = "../assets/candy.bundle"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.plug-in; explicitFileType = undefined; includeInIndex = 0; };
+		295497507FFF448AA772CC90 /* flowers.bundle */ = {isa = PBXFileReference; name = "flowers.bundle"; path = "../assets/flowers.bundle"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.plug-in; explicitFileType = undefined; includeInIndex = 0; };
+		0338C7CE6CCA41D6A1E542A0 /* maorong.bundle */ = {isa = PBXFileReference; name = "maorong.bundle"; path = "../assets/maorong.bundle"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.plug-in; explicitFileType = undefined; includeInIndex = 0; };
+		EDF1C71E83EF437CB21C516A /* pixelfreeAuth.lic */ = {isa = PBXFileReference; name = "pixelfreeAuth.lic"; path = "../assets/pixelfreeAuth.lic"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E59146F01DAC4FF2B3FEC8D6 /* xiantiaoxiongmao.bundle */ = {isa = PBXFileReference; name = "xiantiaoxiongmao.bundle"; path = "../assets/xiantiaoxiongmao.bundle"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.plug-in; explicitFileType = undefined; includeInIndex = 0; };
+		C4916CCAA4E543A88DE41B1B /* xiongerduo.bundle */ = {isa = PBXFileReference; name = "xiongerduo.bundle"; path = "../assets/xiongerduo.bundle"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.plug-in; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +139,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				D63596ECF2AC4EF38F0878EF /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -150,6 +165,21 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		D63596ECF2AC4EF38F0878EF /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				AC02FE4B35DA4C3EA6076DB5 /* baixiaomao.bundle */,
+				C8DA75E06A754719B7850649 /* candy.bundle */,
+				295497507FFF448AA772CC90 /* flowers.bundle */,
+				0338C7CE6CCA41D6A1E542A0 /* maorong.bundle */,
+				EDF1C71E83EF437CB21C516A /* pixelfreeAuth.lic */,
+				E59146F01DAC4FF2B3FEC8D6 /* xiantiaoxiongmao.bundle */,
+				C4916CCAA4E543A88DE41B1B /* xiongerduo.bundle */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -247,6 +277,13 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				97540D325B821975EB2A4607 /* PrivacyInfo.xcprivacy in Resources */,
+				8AE3C0BE103D4F17BFA1384D /* baixiaomao.bundle in Resources */,
+				EACAA3BCAFB34AC79A3EED2D /* candy.bundle in Resources */,
+				3F042EC4BB514DFAB028232D /* flowers.bundle in Resources */,
+				3BC5B793D53449E99FA0094B /* maorong.bundle in Resources */,
+				CD072595074447189D084114 /* pixelfreeAuth.lic in Resources */,
+				96BECC68BF3A459893C43DAF /* xiantiaoxiongmao.bundle in Resources */,
+				0D0DD2F12C6941D8B09A78EB /* xiongerduo.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

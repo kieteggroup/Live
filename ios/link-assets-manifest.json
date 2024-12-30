@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/baixiaomao.bundle",
+      "sha1": "1c7546226bea514b640911d793ab4fe51cc5fd18"
+    },
+    {
+      "path": "assets/candy.bundle",
+      "sha1": "6f4a7452c6b9e2789c8c78672e5d66b4e7bcdf91"
+    },
+    {
+      "path": "assets/flowers.bundle",
+      "sha1": "e609af3470a6d3fbe0aa03451684b892c4d6fd15"
+    },
+    {
+      "path": "assets/maorong.bundle",
+      "sha1": "1feeeb9469dfafcc48b0e8eb1ee19f15bdcdec13"
+    },
+    {
+      "path": "assets/pixelfreeAuth.lic",
+      "sha1": "3e3b632221a9af69e3a22955da73e5ff0fdc64d2"
+    },
+    {
+      "path": "assets/xiantiaoxiongmao.bundle",
+      "sha1": "80fc4e42a52f36eafce6f1805cb1abb1b4250329"
+    },
+    {
+      "path": "assets/xiongerduo.bundle",
+      "sha1": "d19c539e015bf69bf954385a0e0d78faa91d6cb1"
+    }
+  ]
+}
